@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI+%26+Graphic+Designer;Accounting+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI+%26+Graphic+Designer" alt="Typing SVG" />
 
 # MD Shamsuzzaman Fahim
 
-Front-End Developer · UI/Graphic Designer · Accounting Student
-
-BBA Honours in Accounting, Govt. Kadam Rasul College.
+Front-End Developer · UI/Graphic Designer
 
 </div>
 
@@ -36,4 +34,6 @@ BBA Honours in Accounting, Govt. Kadam Rasul College.
 
 ## Connect
 
-[Email](mailto:mdsfahim610@gmail.com) 
+<a href="mailto:mdsfahim610@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-2F81F7?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Say Hello"/></a>
+
+<sub>⭐ Thanks for stopping by — feel free to explore my repositories!</sub>
